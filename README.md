@@ -12,19 +12,7 @@ It works by abusing the discord api wifi ban and webhooks. You can learn more he
 
 ## Screenshots
 
-### pocsuite3 console mode
-[![poc]('')]('')
-
-### pocsuite3 shell mode
-[![poc]('')]('')
-
-### pocsuite3 load PoC from Seebug 
-[![poc]('')]('')
-
-### pocsuite3 load multi-target from ZoomEye
-[![poc]('')]('')
-
-### pocsuite3 load multi-target from Shodan
+### proof it works
 [![poc]('')]('')
 
 ## Requirements
